@@ -2,3 +2,8 @@ body {
     font-family: 'Liu Jian Mao Cao';
     padding: 80px 20px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
