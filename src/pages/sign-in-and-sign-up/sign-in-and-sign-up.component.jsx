@@ -11,4 +11,4 @@ const signInAndSignUp = () => (
     </div>
 )
 
-export default signInAndSignUp;
+export default signInAndSignUp; 
